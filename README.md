@@ -1,12 +1,12 @@
 # Tip-Project
-Simple Android app that calculates tip  and total with basic functionality
+Simple Android app that calculates tip and total with basic functionality
 
 ## UI
-Main View
+/ - Main View
 ![main](ui/main.jpg)
 
-Edit Tax
+/ - Edit Tax
 ![tax](ui/tax.jpg)
 
-Edit Tip
+/ - Edit Tip
 ![tip](ui/tip.jpg)
