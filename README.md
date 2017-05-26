@@ -2,11 +2,11 @@
 Simple Android app that calculates tip and total with basic functionality
 
 ## UI
-/ - Main View
+Main View\n
 ![main](ui/main.jpg)
 
-/ - Edit Tax
+Edit Tax\n
 ![tax](ui/tax.jpg)
 
-/ - Edit Tip
+Edit Tip\n
 ![tip](ui/tip.jpg)
